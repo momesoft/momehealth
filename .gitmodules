@@ -1,0 +1,6 @@
+[submodule "momehealth-backend"]
+	path = momehealth-backend
+	url = git@github.com:momesoft/momehealth-backend.git
+[submodule "momehealth-front"]
+	path = momehealth-front
+	url = git@github.com:momesoft/momehealth-front.git
